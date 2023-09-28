@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan
+# Install script for directory: C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

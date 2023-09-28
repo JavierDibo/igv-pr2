@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug"
+			"value" : "c:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1287,7 +1287,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
@@ -1311,7 +1311,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
 		},
 		{
 			"name" : "khrplatform_DIR",
@@ -1323,7 +1323,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
 		},
 		{
 			"name" : "opengl-registry_DIR",
@@ -1335,7 +1335,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
 		},
 		{
 			"name" : "opengl_system_DIR",
@@ -1347,7 +1347,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan/build/Debug/generators"
 		},
 		{
 			"name" : "pr2a_BINARY_DIR",
@@ -1359,7 +1359,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug"
 		},
 		{
 			"name" : "pr2a_IS_TOP_LEVEL",
@@ -1383,7 +1383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan"
+			"value" : "C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan"
 		}
 	],
 	"kind" : "cache",

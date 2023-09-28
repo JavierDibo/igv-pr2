@@ -1,4 +1,4 @@
-C:\Users\jfdg0\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/jfdg0/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_PROJECT_TOP_LEVEL_INCLUDES=conan_provider.cmake -G Ninja -S "C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan" -B "C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug"
+C:\Users\jfdg0\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/jfdg0/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_PROJECT_TOP_LEVEL_INCLUDES=conan_provider.cmake -G Ninja -S "C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan" -B "C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug"
 -- The C compiler identification is GNU 13.1.0
 -- The CXX compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
@@ -20,7 +20,7 @@ C:\Users\jfdg0\.conan2\profiles\default
 -- CMake-Conan: CMake compiler version=13.1.0
 -- CMake-Conan: [settings] compiler=gcc
 -- CMake-Conan: [settings] compiler.version=13
--- CMake-Conan: Creating profile C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan_host_profile
+-- CMake-Conan: Creating profile C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan_host_profile
 -- CMake-Conan: Profile: 
 include(default)
 [settings]
@@ -34,7 +34,7 @@ build_type=Debug
 tools.cmake.cmaketoolchain:generator=Ninja
 
 -- CMake-Conan: Installing single configuration Debug
--- CMake-Conan: conan install C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan -of=C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan -pr;C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan_host_profile;--build=missing;-g;CMakeDeps
+-- CMake-Conan: conan install C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan -of=C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan -pr;C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug/conan_host_profile;--build=missing;-g;CMakeDeps
 
 ======== Input profiles ========
 Profile host:
@@ -62,7 +62,7 @@ os=Windows
 
 ======== Computing dependency graph ========
 Graph root
-    conanfile.py: C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan\conanfile.py
+    conanfile.py: C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan\conanfile.py
 Requirements
     freeglut/3.4.0#faa2b8377286ee578be419cbecadd8ab - Cache
     glu/system#ee50fc2ade0e1c0c8ebb3be3ea60e0f5 - Cache
@@ -89,19 +89,19 @@ WARN: deprecated:     'cpp_info.filenames' used in: opengl/system
 WARN: deprecated:     'cpp_info.names' used in: freeglut/3.4.0
 
 ======== Finalizing install (deploy, generators) ========
-conanfile.py: Writing generators to C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
+conanfile.py: Writing generators to C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
 conanfile.py: Generator 'CMakeDeps' calling 'generate()'
 conanfile.py: Calling generate()
-conanfile.py: Generators folder: C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
+conanfile.py: Generators folder: C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
 conanfile.py: CMakeToolchain generated: conan_toolchain.cmake
 conanfile.py: Preset 'conan-debug' added to CMakePresets.json. Invoke it manually using 'cmake --preset conan-debug' if using CMake>=3.23
-conanfile.py: If your CMake version is not compatible with CMakePresets (<3.23) call cmake like: 'cmake <path> -G Ninja -DCMAKE_TOOLCHAIN_FILE=C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators\conan_toolchain.cmake -DCMAKE_POLICY_DEFAULT_CMP0091=NEW -DCMAKE_BUILD_TYPE=Debug'
+conanfile.py: If your CMake version is not compatible with CMakePresets (<3.23) call cmake like: 'cmake <path> -G Ninja -DCMAKE_TOOLCHAIN_FILE=C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators\conan_toolchain.cmake -DCMAKE_POLICY_DEFAULT_CMP0091=NEW -DCMAKE_BUILD_TYPE=Debug'
 conanfile.py: CMakeToolchain generated: CMakePresets.json
 conanfile.py: Generating aggregated env files
 conanfile.py: Generated aggregated env files: ['conanbuild.bat', 'conanrun.bat']
 Install finished successfully
--- CMake-Conan: CONAN_GENERATORS_FOLDER=C:\Users\jfdg0\Desktop\Informatica Grafcia y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
--- CMake-Conan: CONANFILE=C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/conanfile.py
+-- CMake-Conan: CONAN_GENERATORS_FOLDER=C:\Users\jfdg0\Desktop\Informatica Grafica y Visual\IGV-practica-02\pr2a_conan\cmake-build-debug\conan\build\Debug\generators
+-- CMake-Conan: CONANFILE=C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/conanfile.py
 -- Conan: Target declared 'opengl::opengl'
 -- CMake-Conan: find_package(opengl-registry) found, 'conan install' already ran
 -- Conan: Target declared 'opengl-registry::opengl-registry'
@@ -111,6 +111,6 @@ Install finished successfully
 -- Conan: Component target declared 'FreeGLUT::freeglut_static'
 -- CMake-Conan: find_package(glu) found, 'conan install' already ran
 -- Conan: Target declared 'glu::glu'
--- Configuring done (3.7s)
+-- Configuring done (5.6s)
 -- Generating done (0.0s)
--- Build files have been written to: C:/Users/jfdg0/Desktop/Informatica Grafcia y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug
+-- Build files have been written to: C:/Users/jfdg0/Desktop/Informatica Grafica y Visual/IGV-practica-02/pr2a_conan/cmake-build-debug
